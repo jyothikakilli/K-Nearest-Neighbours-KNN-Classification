@@ -1,0 +1,6 @@
+Variable Name	Role	Type	Description	Units	Missing Values
+sepal length	Feature	Continuous		cm	no
+sepal width	Feature	Continuous		cm	no
+petal length	Feature	Continuous		cm	no
+petal width	Feature	Continuous		cm	no
+class Target	Categorical	class of iris plant: Iris Setosa, Iris Versicolour, or Iris Virginica		no
